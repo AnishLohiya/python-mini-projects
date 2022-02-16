@@ -13,5 +13,5 @@ pip install pywhatkit
 ## How To Run
 
 ```sh
-python whatsapp_bot.py
+python main.py
 ```

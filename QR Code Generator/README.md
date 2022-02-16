@@ -13,5 +13,5 @@ pip install qrcode
 ## How To Run 
 
 ```sh
-main.py
+python main.py
 ```

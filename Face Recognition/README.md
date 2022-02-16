@@ -11,7 +11,7 @@ pip install opencv-python
 ## How To Run
 
 ```sh
-python face_recognition.py
+python main.py
 ```
 
 ## Display
